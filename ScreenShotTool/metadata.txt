@@ -1,0 +1,3 @@
+Enter metadata which you want to add on document,like BAN,testcase details etc.
+
+Right click to erase content
